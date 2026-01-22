@@ -1,0 +1,7 @@
+Dataset Link:
+
+1. Brazilian E-Commerce Public Dataset by Olist 
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+From this raw data, I have used the following tables:
